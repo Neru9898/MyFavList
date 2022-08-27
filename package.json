@@ -1,0 +1,15 @@
+{
+  "name": "MyFavList",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Neru9898/MyFavList.git",
+  "author": "Neru9898 <neonerushan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "nodemon node index.js"
+  }
+}
